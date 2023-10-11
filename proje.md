@@ -134,13 +134,13 @@
 
 ![Alt text](images/vali.png)
 
-### Validation
+### Validation.
 
 `cat /var/lib/tomcat9/webapps/ROOT/WEB-INF/classes/application.properties`
 
 ![Alt text](images/vali222.png)
 
-## Setting up a Load Balancer
+## Setting up a Load Balancer.
 
 ### Crrating application Load Balancer from Target Group
 ### create target group and create the load balancer making sure to add your certificate
